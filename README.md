@@ -5,7 +5,6 @@ I'm a dedicated and enthusiastic web developer specializing in front-end technol
 - 🔭 **Currently working at** [Eventya] as a Web Developer, where I’m gaining hands-on experience with Ruby, Ruby on Rails, PostgreSQL.
 - 🌱 **Currently learning** Node.js and Next.js to expand my full-stack development skills.
 - 💬 **Ask me about** front-end development, React, or anything related to Ruby on Rails!
-- 👯 **Looking to collaborate on** open-source projects or ambitious web applications.
 - 📫 **How to reach me:** [ienulesccatalin@gmail.com](mailto:ienulesccatalin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iencatalin)
 
 
